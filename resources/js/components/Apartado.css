@@ -1,0 +1,29 @@
+.Fondo
+{
+    background-color: #1206af;
+    width: 100%;
+    height: 10px;
+    margin: auto;
+}
+
+.ApartadoFuente
+{
+    margin-right: 50px;
+    margin-left:50px;
+    font-style: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Input
+{
+    width:50%;
+}
+
+.RegistroAP
+{
+    margin-right: 50px;
+    margin-left:50px;
+    font-style: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+}

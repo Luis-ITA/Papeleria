@@ -1,0 +1,49 @@
+.RegistroCliente
+{
+    margin-right: 50px;
+    margin-left:50px;
+    font-style: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+}
+
+.RegistroClienteEnca
+{
+    margin-right: 150px;
+    margin-left: 150px;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+.Input
+{
+    width:100%;
+}
+
+.Encabezado
+{
+    margin-right: 50px;
+    margin-left:50px;
+}
+
+.Left
+{
+    float: left;
+    width: 50%;
+    height: inherit;
+}
+
+.Right
+{
+    float: left;
+    width: 50%;
+    display: block;
+    height: inherit;
+}
+
+.Picture
+{
+    width: 500px;
+    height: 500px;
+}

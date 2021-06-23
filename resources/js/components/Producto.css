@@ -1,0 +1,27 @@
+.ProductoFuente
+{
+    margin-right: 50px;
+    margin-left:50px;
+    font-style: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Linea
+{
+    background-color: #dfee0c;
+    width: 100%;
+    height: 10px;
+    margin: auto;
+}
+
+.Titulo
+{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+}
+
+.Input
+{
+    width: 40%;
+}
